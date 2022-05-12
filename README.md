@@ -5,3 +5,4 @@
 ![5](https://user-images.githubusercontent.com/94388904/168021513-729d9e19-4139-4996-a1f2-4840c22b4646.png)
 ![7](https://user-images.githubusercontent.com/94388904/168021675-c28a39dd-b5ac-4ddf-afd7-6e74391d437f.png)
 
+یک روش استفاده از دستور sudo به صورت مکرر وارد کردن دستور sudo-s  هست 
